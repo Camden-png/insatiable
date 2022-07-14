@@ -1,5 +1,5 @@
 # Insatiable
-![](ClimbSlimes.png)
+![](Insatiable.png)
 
 ## About:
 *Dark Lord Allowen has awoken from a hundred-year slumber for food!*  
